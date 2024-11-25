@@ -7,6 +7,6 @@ import androidx.compose.ui.unit.sp
 class JPTitleTextStrategy : TitleTextStrategy {
     override fun textSize() = 24.sp
     override fun textWeight() = FontWeight.Bold
-    override fun color() = Color.Green
+    override fun color() = Color.Gray
 }
 
